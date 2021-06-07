@@ -1,0 +1,4 @@
+egrep "CPU|Memory|Disk" text18.txt
+CPU
+Memory
+Disk Space

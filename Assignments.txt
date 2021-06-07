@@ -1,0 +1,27 @@
+Sections 1,2,3
+
+HTML, CSS and JS files pushed to remote repository named freshbatch-march21
+GitHub repo link : https://github.com/atharva-joshi198/freshbatch-march21
+
+Eclipse project pushed
+GitHub repo link : https://github.com/atharva-joshi198/Sample
+
+1.Case Study 1
+
+Cloned repository and ollowed by adding mystory.txt and updated contributers.txt.
+Sent the pull request to the owner of the repository to add my name in the contributor.txt file
+Github repo link : https://github.com/atharva-joshi198/freshbatch-march21/tree/side
+
+2.Case Study 3
+Created a remote repo and added README.md 
+Github repo link : https://github.com/atharva-joshi198/freshbatch-march21/tree/master/web-api
+
+3. Case Study 4
+Created a different branch and corrected the CASE STUDY 3 README.md file and merged the changes into the master branch.
+Transferred the decision making to senior he will merge the changes if it satisfies the companys standard. 
+Github repo link : https://github.com/atharva-joshi198/freshbatch-march21/tree/side/web-api
+
+4. Case Study 5
+Forked the train schedule repository and created the feature branch to modify the index.jade file and 
+then sent a pull request to the owner of repository to merge the changed file.
+https://github.com/atharva-joshi198/train-schedule-app/tree/feature

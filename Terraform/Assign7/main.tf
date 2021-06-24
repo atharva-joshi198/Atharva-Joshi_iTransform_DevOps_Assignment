@@ -8,8 +8,8 @@ terraform {
 }
 # Configure the AWS Provider
 provider "aws" {
-  access_key = "AKIAYKTEMIFL53ACYMZY"
-  secret_key = "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"
+  access_key =
+  secret_key =
   region = "us-east-1"
 }
 resource "random_id" "tf_bucket_id" {
